@@ -12,6 +12,8 @@ namespace ProjetS3
         {
             Console.WriteLine("Bonjour le monde");
             int x = 5;
+            Console.WriteLine("Hello world"); // caca
+            int x = 0;
         }
     }
 }
