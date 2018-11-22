@@ -10,7 +10,8 @@ namespace ProjetS3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oui");
+            Console.WriteLine("Bonjour le monde");
+            int x = 5;
         }
     }
 }
